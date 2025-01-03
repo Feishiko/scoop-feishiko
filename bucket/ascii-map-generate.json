@@ -4,11 +4,7 @@
     "homepage": "https://feishiko.itch.io/ascii-map-editor",
     "license": "MIT",
     "notes": "",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/Feishiko/asciimap-generator/releases/download/1.3/ascii-map-generator-1.3.zip",
-            "hash": ""
-        }
-    },
+    "url": "https://github.com/Feishiko/asciimap-generator/releases/download/1.3/ascii-map-generator-1.3.zip",
+    "extract_dir": "ascii-map-generator",
     "bin" : "AsciiMapEditor.exe"
 }
