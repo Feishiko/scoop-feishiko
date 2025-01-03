@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "Feishiko/scoop-feishiko:main"
+    [String]$upstream = "Feishiko/scoop-feishiko:master"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
