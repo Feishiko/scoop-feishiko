@@ -3,6 +3,7 @@
     "description": "Ascii Map Editor",
     "homepage": "https://feishiko.itch.io/ascii-map-editor",
     "license": "MIT",
+    "hash": "a18a895f97e2f0516eb2ce19e0337bbd790907f75b0d4aec154ca2d60621d3c1",
     "notes": "",
     "url": "https://github.com/Feishiko/asciimap-generator/releases/download/1.4/asciimap-generator-1.4.zip",
     "extract_dir": "ascii-map-generator",
